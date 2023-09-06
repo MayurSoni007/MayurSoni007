@@ -1,4 +1,7 @@
-![logo](https://github.com/MayurSoni007/MayurSoni007/blob/main/Banner%20Mayur.jpg)
+<div align="center">
+  <img src="https://github.com/MayurSoni007/MayurSoni007/blob/main/Banner%20Mayur.jpg" alt="logo" style="width: 70%;">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Mayur Soni</h1>
 <h3 align="center">A passionate Aspiring Data Science Student from India.</h3>
